@@ -21,7 +21,7 @@ Docker Kubernate etc.
 - 📫 How to reach me ...
   Instagram - https://www.instagram.com/educornerz/
   
-  LinkedIn - https://www.linkedin.com/in/educornerz
+  LinkedIn - https://www.linkedin.com/educornerz
   
   Youtube - https://www.youtube.com/channel/UCXwbjQu-vnZTMeYDgohgeOw
   
