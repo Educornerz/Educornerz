@@ -15,6 +15,8 @@ Docker Kubernate etc.
 - 🌱 Dont Forget to give STAR to Github project
 
 - 👀 If you interested in course mail us - educornerz.info@gmail.com
+- 👀 If you interested in Internship -
+   Apply here: https://forms.gle/iig6iGw3 
 
 - 💞️ Follow us on Projects, Notes and eBOOKs 
 
