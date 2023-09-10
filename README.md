@@ -5,18 +5,16 @@
 https://www.youtube.com/channel/UCXwbjQu-vnZTMeYDgohgeOw
 
  We Provide-
-Free Web Development Course with Certificate
+Free Full Stack Development Course with Certificate
 Following Tutorials Available on Youtube ( Some are coming soon...)
 HTML , CSS , BOOTSTRAP, JAVASCRIPT,REACT, NODE, NEXTJS
-JAVA Tutorial
+JAVA Tutorial, Spring Boot,
 GIT GITHUB, UNIX SCRIPTING
 Docker Kubernate etc.
 - 🌱 Dont Forget to Follow and Share and Subscribe.
 - 🌱 Dont Forget to give STAR to Github project
 
 - 👀 If you interested in course mail us - educornerz.info@gmail.com
-- 👀 If you interested in Internship -
-   Apply here: https://forms.gle/iig6iGw3 
 
 - 💞️ Follow us on Projects, Notes and eBOOKs 
 
